@@ -1,1 +1,2 @@
 # Alpha-Puzzle
+This project is a Python game: a fully functioning program that functions as a brain puzzle for users to move tiles around a 3x3 plane until the solution is formed. Using the four directional arrow keys, the user moves the "clear" tile and replaces lettered tiles with the clear one. The user continues to move around the tiles until the puzzle is solved (the tiles are alphabetically ordered and the clear tile is in the last position). This project was created using Python, implements the PyGame library, and was created using PyCharm.
